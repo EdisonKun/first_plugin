@@ -1,0 +1,5 @@
+include/rqt_my_first_plugin/rqt_my_first_plugin_widget.h
+include/rqt_my_first_plugin/rqt_my_first_plugin.h
+src/rqt_my_first_plugin/rqt_my_first_plugin_widget.cpp
+src/rqt_my_first_plugin/rqt_my_first_plugin.cpp
+ui/rqt_my_first_plugin/rqt_my_first_plugin_widget.ui
